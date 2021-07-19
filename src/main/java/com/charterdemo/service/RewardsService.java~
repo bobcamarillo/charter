@@ -1,6 +1,0 @@
-package com.charterdemo.service;
-
-public interface RewardsService {
-
-    int getRewards(int userId);
-}
