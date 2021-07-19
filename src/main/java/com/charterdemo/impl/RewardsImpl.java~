@@ -1,0 +1,6 @@
+package com.charterdemo.impl;
+
+public class RewardsImpl implements RewardsService {
+
+    publicvoid getRewards(int userId);
+}
